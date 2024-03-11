@@ -33,3 +33,45 @@ I took the initiative to review and investigate the issue firsthand. With meticu
 
 
 
+## Step 3
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/6c4db3f4-14d4-404d-b159-aff9d63e27b8)
+
+
+As for here we observer the history and or activity log for anymore suspicious behavior.
+
+
+
+## Step 4
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/1742c9b3-6db0-48ae-a15b-3e408f784618)
+
+
+We search for the geographical information of where this is taken place or where the IP Address is located, We also observe the timeline and Activity that is taken place.
+
+
+
+## Step 5
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/34e789e5-8499-4498-ae3f-2573eb58cfde)
+
+
+Concerning this investigation, we carefully check network data to find anything unusual. we focus on spotting any other possible sources that the hacker may have tried to do. By looking at the investigation and how often they occur, we can understand how big the attack is. This helps us take quick action to protect the system from further harm.
+
+
+
+## Step 6
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/00ff82e0-49b0-4258-87e4-b1eb2b58d9f4)
+
+
+here we review the entities involved and check for any related events.
+
+
+
+
+
+## Step 7
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/9e25bdc8-7098-4ff5-8440-9ed5b34fdfce)
+
+
+
+
+
+

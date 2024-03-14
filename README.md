@@ -89,8 +89,12 @@ Based on my analysis, I've determined that this alert was a false positive due t
 
 
 
+## Added Step (9)
+## I have hidden the IP address as in asteriks 
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/30f35a90-fa2c-4fc0-944b-c991577fb30f)
+
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/1b6e5f13-c706-4a20-9d16-839274b688fd)
 
 
-
-
+By establishing a private endpoint, addressing NIST recommendations, and implementing additional security rules, I've fortified the security of my environment. Additionally, a further layer of protection is provided with a restriction allowing access to my VM solely from my IP address, as depicted in another illustration.
 

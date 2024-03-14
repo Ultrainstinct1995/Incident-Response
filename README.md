@@ -71,6 +71,25 @@ here we review the entities involved and check for any related events.
 ![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/9e25bdc8-7098-4ff5-8440-9ed5b34fdfce)
 
 
+Upon anticipating a brute force attack, I utilized KQL to investigate further and discovered ongoing failed login attempts from a specific IP address, even after a successful login. This persistence raised suspicion of a false positive, potentially triggered by a service account.
+
+
+
+
+
+## Step 8
+![image](https://github.com/Ultrainstinct1995/Incident-Response-NIST-Implementation/assets/155921166/c78d8f77-d404-4435-a126-665be824c18b)
+
+
+
+Based on my analysis, I've determined that this alert was a false positive due to incorrect alert logic. I've documented my findings and notes from the investigation in the comment box, and I've marked the alert as closed.
+
+
+
+
+
+
+
 
 
 
